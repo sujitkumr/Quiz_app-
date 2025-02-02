@@ -15,3 +15,8 @@ This is a simple quiz application built using React. It allows users to answer m
 - React - A JavaScript library for building user interfaces
 - CSS - For styling the application
 - JavaScript - For handling the quiz logic
+
+  
+## preview
+
+https://www.loom.com/share/1fb24142ff604b719a378cc52aecc2b4?sid=d5260165-6cb9-4d5d-80bc-3b8850653b56
